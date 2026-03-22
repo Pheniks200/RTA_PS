@@ -1,2 +1,1 @@
-# RTA_PS
-
+# Analiza danych w czasie rzeczywistym
